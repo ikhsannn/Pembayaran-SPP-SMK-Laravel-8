@@ -11,7 +11,7 @@
 
 - Buka Terminal / CMD
 - Clone project <code>https://github.com/ikhsannn/Pembayaran-SPP-SMK-Laravel-8.git</code>
-- cd app-pembayaran-spp-laravel-8
+- cd Pembayaran-SPP-SMK-Laravel-8-main
 - Ketik <code>composer install</code>
 - Kemudian ketik <code>cp .env.example .env</code>
 - Ketik <code>php artisan key:generate</code>
